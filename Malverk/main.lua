@@ -35,12 +35,20 @@ AltTexture({ -- Jokers
     path = 'osrs_jokers.png',
     localization = true
 })
-AltTexture({ -- Jokers
+AltTexture({ -- Jokers Light
     key = 'osrs_jokerslight',
     set = 'Joker',
     path = 'osrs_jokerslight.png',
     loc_txt = {
         name = 'Jokers Light'
+    }
+})
+AltTexture({ -- Deck
+    key = 'osrs_deck',
+    set = 'Deck',
+    path = 'osrs_deck.png',
+    loc_txt = {
+        name = 'Deck'
     }
 })
 TexturePack{ -- Texture Pack
@@ -49,7 +57,15 @@ TexturePack{ -- Texture Pack
         'iso_osrs_stickers',
         'iso_osrs_stakes',
         'iso_osrs_jokers',
-        'iso_osrs_jokerslight'
+        'iso_osrs_jokerslight',
+        'iso_osrs_deck'
     },
     toggle_textures ={'iso_osrs_jokerslight'},
 }
+
+SMODS.Atlas {
+    key = 'modicon',
+    px = 32,
+    py = 32,
+    path = 'modicon.png'
+  }
