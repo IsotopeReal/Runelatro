@@ -10,7 +10,19 @@
 return {
     misc = {
         dictionary = {
-            r_region = 'Region'
+            r_region = 'Region',
+        },
+        suits_plural={
+            Clubs="Sapphire",
+            Diamonds="Topaz",
+            Hearts="Ruby",
+            Spades="Emerald",
+        },
+        suits_singular={
+            Clubs="Sapphire",
+            Diamonds="Topaz",
+            Hearts="Ruby",
+            Spades="Emerald",
         },
     },
 
@@ -467,7 +479,6 @@ return {
                 j_zany = {
                     name = "Ahrim",
                 },
-                name = "Jokers Dark"
             },
         },
         texture_packs = {

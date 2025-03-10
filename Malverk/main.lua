@@ -11,6 +11,20 @@ Malverk.badges.badge_region = function(self, card, badges)
     badges[#badges + 1] = create_badge(localize('r_region'), get_type_colour(self or card.config, card), nil, 1.2)
 end
 
+SMODS.Atlas{
+    key = "cards_1",
+    path = "osrs_deck.png",
+    px = 71,
+    py = 95,
+    prefix_config = {key = false }
+    }
+SMODS.Atlas{
+    key = "cards_2",
+    path = "osrs_deck.png",
+    px = 71,
+    py = 95,
+    prefix_config = { key = false }
+    }
 AltTexture({ -- Stickers
     key = 'osrs_stickers',
     set = 'Sticker',
@@ -33,7 +47,9 @@ AltTexture({ -- Jokers
     key = 'osrs_jokers',
     set = 'Joker',
     path = 'osrs_jokers.png',
-    localization = true
+    loc_txt = {
+        name = 'Jokers'
+    }
 })
 AltTexture({ -- Jokers Light
     key = 'osrs_jokerslight',
@@ -43,22 +59,13 @@ AltTexture({ -- Jokers Light
         name = 'Jokers Light'
     }
 })
-AltTexture({ -- Deck
-    key = 'osrs_deck',
-    set = 'Deck',
-    path = 'osrs_deck.png',
-    loc_txt = {
-        name = 'Deck'
-    }
-})
 TexturePack{ -- Texture Pack
     key = 'osrs',
         textures = {
         'iso_osrs_stickers',
         'iso_osrs_stakes',
         'iso_osrs_jokers',
-        'iso_osrs_jokerslight',
-        'iso_osrs_deck'
+        'iso_osrs_jokerslight'
     },
     toggle_textures ={'iso_osrs_jokerslight'},
 }
