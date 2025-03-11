@@ -47,9 +47,7 @@ AltTexture({ -- Jokers
     key = 'osrs_jokers',
     set = 'Joker',
     path = 'osrs_jokers.png',
-    loc_txt = {
-        name = 'Jokers'
-    }
+    localization = true
 })
 AltTexture({ -- Jokers Light
     key = 'osrs_jokerslight',
@@ -59,13 +57,20 @@ AltTexture({ -- Jokers Light
         name = 'Jokers Light'
     }
 })
+AltTexture({ -- Tarots
+    key = 'osrs_tarots',
+    set = 'Tarot',
+    path = 'osrs_tarots.png',
+    localization = true
+})
 TexturePack{ -- Texture Pack
     key = 'osrs',
         textures = {
         'iso_osrs_stickers',
         'iso_osrs_stakes',
         'iso_osrs_jokers',
-        'iso_osrs_jokerslight'
+        'iso_osrs_jokerslight',
+        'iso_osrs_tarots'
     },
     toggle_textures ={'iso_osrs_jokerslight'},
 }

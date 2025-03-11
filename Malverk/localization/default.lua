@@ -479,6 +479,77 @@ return {
                 j_zany = {
                     name = "Ahrim",
                 },
+                name = "Jokers"
+            },
+
+            alt_tex_iso_osrs_tarots = {
+                c_fool = {
+                    name = "Hans",
+                },
+                c_magician = {
+                    name = "Wise Old Man",
+                },
+                c_high_priestess = {
+                    name = "Zahur",
+                },
+                c_empress = {
+                    name = "Gnome Child",
+                },
+                c_emperor = {
+                    name = "Party Pete",
+                },
+                c_heirophant = {
+                    name = "Bob",
+                },
+                c_lovers = {
+                    name = "Nulodion",
+                },
+                c_chariot = {
+                    name = "My Arm",
+                },
+                c_justice = {
+                    name = "Zanik",
+                },
+                c_hermit = {
+                    name = "Banker",
+                },
+                c_wheel_of_fortune = {
+                    name = "Uri",
+                },
+                c_strength = {
+                    name = "Elena",
+                },
+                c_hanged_man = {
+                    name = "Demon Butler",
+                },
+                c_death = {
+                    name = "Karim",
+                },
+                c_temperance = {
+                    name = "Leprechaun",
+                },
+                c_devil = {
+                    name = "Thurgo",
+                },
+                c_tower = {
+                    name = "Drunken Dward",
+                },
+                c_star = {
+                    name = "Vannaka",
+                },
+                c_moon = {
+                    name = "Konar",
+                },
+                c_sun = {
+                    name = "Nieve",
+                },
+                c_judgement = {
+                    name = "Genie",
+                },
+                c_world = {
+                    name = "Turael",
+                },
+                name = "Tarots"
             },
         },
         texture_packs = {
