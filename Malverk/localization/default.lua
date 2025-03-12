@@ -551,6 +551,104 @@ return {
                 },
                 name = "Tarots"
             },
+
+            alt_tex_iso_osrs_planets = {
+                c_mercury = {
+                    name = "Varrock",
+                },
+                c_venus = {
+                    name = "Entrana",
+                },
+                c_earth = {
+                    name = "Taverley",
+                },
+                c_mars = {
+                    name = "Brimhaven",
+                },
+                c_jupiter = {
+                    name = "Yanille",
+                },
+                c_saturn = {
+                    name = "Edgeville",
+                },
+                c_uranus = {
+                    name = "Catherby",
+                },
+                c_neptune = {
+                    name = "Ardougne",
+                },
+                c_pluto = {
+                    name = "Rimmington",
+                },
+                c_planet_x = {
+                    name = "Al Kharid",
+                },
+                c_ceres = {
+                    name = "Rellekka",
+                },
+                c_eris = {
+                    name = "Lumbridge",
+                },
+                name = "Planets"
+            },
+
+            alt_tex_iso_osrs_spectrals = {
+                c_familiar = {
+                    name = "Ancient Godsword",
+                },
+                c_grim = {
+                    name = "Abyssal Whip",
+                },
+                c_incantation = {
+                    name = "Dragonfire Shield",
+                },
+                c_talisman = {
+                    name = "Gilded Spade",
+                },
+                c_aura = {
+                    name = "Scythe of Vitur",
+                },
+                c_wraith = {
+                    name = "Zaryte Crossbow",
+                },
+                c_sigil = {
+                    name = "Ghrazi Rapier",
+                },
+                c_ouija = {
+                    name = "Osmumten's Fang",
+                },
+                c_ectoplasm = {
+                    name = "Tumeken's Shadow",
+                },
+                c_immolate = {
+                    name = "Dragon Dagger P++",
+                },
+                c_ankh = {
+                    name = "Twisted Bow",
+                },
+                c_deja_vu = {
+                    name = "Dragon Claws",
+                },
+                c_hex = {
+                    name = "Elder Maul",
+                },
+                c_trance = {
+                    name = "Elysian Spirit Shield",
+                },
+                c_medium = {
+                    name = "Kodai Wand",
+                },
+                c_cryptid = {
+                    name = "Nightmare Staff",
+                },
+                c_soul = {
+                    name = "3rd age Pickaxe",
+                },
+                c_black_hole = {
+                    name = "Dragon Warhammer",
+                },
+                name = "Spectral"
+            },
         },
         texture_packs = {
             texpack_iso_osrs = {

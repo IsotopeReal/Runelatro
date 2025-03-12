@@ -63,6 +63,18 @@ AltTexture({ -- Tarots
     path = 'osrs_tarots.png',
     localization = true
 })
+AltTexture({ -- Planets
+    key = 'osrs_planets',
+    set = 'Planet',
+    path = 'osrs_tarots.png',
+    localization = true
+})
+AltTexture({ -- Spectrals
+    key = 'osrs_spectrals',
+    set = 'Spectral',
+    path = 'osrs_tarots.png',
+    localization = true
+})
 TexturePack{ -- Texture Pack
     key = 'osrs',
         textures = {
@@ -70,7 +82,9 @@ TexturePack{ -- Texture Pack
         'iso_osrs_stakes',
         'iso_osrs_jokers',
         'iso_osrs_jokerslight',
-        'iso_osrs_tarots'
+        'iso_osrs_tarots',
+        'iso_osrs_planets',
+        'iso_osrs_spectrals'
     },
     toggle_textures ={'iso_osrs_jokerslight'},
 }
