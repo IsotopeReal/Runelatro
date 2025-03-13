@@ -11,19 +11,21 @@ Malverk.badges.badge_region = function(self, card, badges)
     badges[#badges + 1] = create_badge(localize('r_region'), get_type_colour(self or card.config, card), nil, 1.2)
 end
 
-SMODS.Atlas{
+SMODS.Atlas{ -- Playing Cards
     key = "cards_1",
     path = "osrs_deck.png",
     px = 71,
     py = 95,
-    prefix_config = {key = false }
+    prefix_config = {
+        key = false }
     }
-SMODS.Atlas{
+SMODS.Atlas{ -- Playing Cards
     key = "cards_2",
     path = "osrs_deck.png",
     px = 71,
     py = 95,
-    prefix_config = { key = false }
+    prefix_config = {
+        key = false }
     }
 AltTexture({ -- Stickers
     key = 'osrs_stickers',

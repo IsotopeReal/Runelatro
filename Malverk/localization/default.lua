@@ -43,6 +43,11 @@ return {
                 },
                 j_arrowhead = {
                     name = "Thermy",
+                    text={
+                        "Played cards with",
+                        "{C:spades}Emerald{} suit give",
+                        "{C:chips}+#1#{} Chips when scored",
+                    },
                 },
                 j_astronomer = {
                     name = "Suqah",
@@ -61,6 +66,12 @@ return {
                 },
                 j_bloodstone = {
                     name = "Abyssal Sire",
+                    text={
+                        "{C:green}#1# in #2#{} chance for",
+                        "played cards with",
+                        "{C:hearts}Ruby{} suit to give",
+                        "{X:mult,C:white} X#3# {} Mult when scored",
+                    },
                 },
                 j_blue_joker = {
                     name = "Imp",
@@ -184,6 +195,12 @@ return {
                 },
                 j_flower_pot = {
                     name = "Greater Demon",
+                    text={
+                        "{X:mult,C:white} X#1# {} Mult if poker",
+                        "hand contains a",
+                        "{C:diamonds}Topaz{} card, {C:clubs}Sapphire{} card,",
+                        "{C:hearts}Ruby{} card, and {C:spades}Emerald{} card",
+                    },
                 },
                 j_fortune_teller = {
                     name = "Giant Frog",
@@ -304,6 +321,11 @@ return {
                 },
                 j_onyx_agate = {
                     name = "Spinner",
+                    text={
+                        "Played cards with",
+                        "{C:clubs}Sapphire{} suit give",
+                        "{C:mult}+#1#{} Mult when scored",
+                    },
                 },
                 j_oops = {
                     name = "Aviansie",
@@ -349,6 +371,11 @@ return {
                 },
                 j_rough_gem = {
                     name = "Tz-Kek",
+                    text={
+                        "Played cards with",
+                        "{C:diamonds}Topaz{} suit earn",
+                        "{C:money}$#1#{} when scored",
+                    },
                 },
                 j_runner = {
                     name = "Ice Spider",
@@ -385,6 +412,12 @@ return {
                 },
                 j_smeared = {
                     name = "Kurask",
+                    text={
+                        "{C:hearts}Ruby{} and {C:diamonds}Topaz",
+                        "count as the same suit",
+                        "{C:spades}Emerald{} and {C:clubs}Sapphire",
+                        "count as the same suit",
+                    },
                 },
                 j_smiley = {
                     name = "Cave Bug",
@@ -532,7 +565,7 @@ return {
                     name = "Thurgo",
                 },
                 c_tower = {
-                    name = "Drunken Dward",
+                    name = "Drunken Dwarf",
                 },
                 c_star = {
                     name = "Vannaka",
