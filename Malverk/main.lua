@@ -67,6 +67,7 @@ AltTexture({ -- Spectrals
     key = 'osrs_spectrals',
     set = 'Spectral',
     path = 'osrs_tarots.png',
+    soul = 'osrs_enhancers.png',
     localization = true
 })
 AltTexture({ -- Tags
@@ -75,6 +76,30 @@ AltTexture({ -- Tags
     path = 'osrs_tags.png',
     loc_txt = {
         name = 'Tags'
+    }
+})
+AltTexture({ -- Enhancers
+    key = 'osrs_enhancers',
+    set = 'Enhanced',
+    path = 'osrs_enhancers.png',
+    loc_txt = {
+        name = 'Enhancers'
+    }
+})
+AltTexture({ -- Seals
+    key = 'osrs_seals',
+    set = 'Seal',
+    path = 'osrs_enhancers.png',
+    loc_txt = {
+        name = 'Seals'
+    }
+})
+AltTexture({ -- Decks
+    key = 'osrs_decks',
+    set = 'Back',
+    path = 'osrs_enhancers.png',
+    loc_txt = {
+        name = 'Decks'
     }
 })
 TexturePack{ -- Texture Pack
@@ -86,7 +111,10 @@ TexturePack{ -- Texture Pack
         'iso_osrs_tarots',
         'iso_osrs_planets',
         'iso_osrs_spectrals',
-        'iso_osrs_tags'
+        'iso_osrs_tags',
+        'iso_osrs_enhancers',
+        'iso_osrs_seals',
+        'iso_osrs_decks'
     },
 }
 
