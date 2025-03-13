@@ -49,14 +49,6 @@ AltTexture({ -- Jokers
     path = 'osrs_jokers.png',
     localization = true
 })
-AltTexture({ -- Jokers Light
-    key = 'osrs_jokerslight',
-    set = 'Joker',
-    path = 'osrs_jokerslight.png',
-    loc_txt = {
-        name = 'Jokers Light'
-    }
-})
 AltTexture({ -- Tarots
     key = 'osrs_tarots',
     set = 'Tarot',
@@ -75,18 +67,25 @@ AltTexture({ -- Spectrals
     path = 'osrs_tarots.png',
     localization = true
 })
+AltTexture({ -- Tags
+    key = 'osrs_tags',
+    set = 'Tag',
+    path = 'osrs_tags.png',
+    loc_txt = {
+        name = 'Tags'
+    }
+})
 TexturePack{ -- Texture Pack
     key = 'osrs',
         textures = {
         'iso_osrs_stickers',
         'iso_osrs_stakes',
         'iso_osrs_jokers',
-        'iso_osrs_jokerslight',
         'iso_osrs_tarots',
         'iso_osrs_planets',
-        'iso_osrs_spectrals'
+        'iso_osrs_spectrals',
+        'iso_osrs_tags'
     },
-    toggle_textures ={'iso_osrs_jokerslight'},
 }
 
 SMODS.Atlas {
