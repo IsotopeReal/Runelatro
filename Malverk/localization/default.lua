@@ -675,7 +675,7 @@ return {
                     name = "Nightmare Staff",
                 },
                 c_soul = {
-                    name = "3rd age Pickaxe",
+                    name = "Monumental Chest",
                 },
                 c_black_hole = {
                     name = "Dragon Warhammer",

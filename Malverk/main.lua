@@ -102,6 +102,16 @@ AltTexture({ -- Decks
         name = 'Decks'
     }
 })
+AltTexture({ -- Base Cards
+    key = 'osrs_card',
+    keys = {'c_base'},
+    set = 'Enhanced',
+    path = 'osrs_enhancers.png',
+    original_sheet = true,
+    loc_txt = {
+        name = 'Base Cards'
+    }
+})
 TexturePack{ -- Texture Pack
     key = 'osrs',
         textures = {
@@ -114,7 +124,8 @@ TexturePack{ -- Texture Pack
         'iso_osrs_tags',
         'iso_osrs_enhancers',
         'iso_osrs_seals',
-        'iso_osrs_decks'
+        'iso_osrs_decks',
+        'iso_osrs_card'
     },
 }
 
