@@ -94,6 +94,14 @@ AltTexture({ -- Seals
         name = 'Seals'
     }
 })
+AltTexture({ -- Vouchers
+    key = 'osrs_vouchers',
+    set = 'Voucher',
+    path = 'osrs_vouchers.png',
+    loc_txt = {
+        name = 'Vouchers'
+    }
+})
 AltTexture({ -- Decks
     key = 'osrs_decks',
     set = 'Back',
@@ -124,6 +132,7 @@ TexturePack{ -- Texture Pack
         'iso_osrs_tags',
         'iso_osrs_enhancers',
         'iso_osrs_seals',
+        'iso_osrs_vouchers',
         'iso_osrs_decks',
         'iso_osrs_card'
     },

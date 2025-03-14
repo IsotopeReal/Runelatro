@@ -657,7 +657,7 @@ return {
                     name = "Dragon Dagger P++",
                 },
                 c_ankh = {
-                    name = "Twisted Bow",
+                    name = "Dragon Warhammer",
                 },
                 c_deja_vu = {
                     name = "Dragon Claws",
@@ -678,7 +678,7 @@ return {
                     name = "Monumental Chest",
                 },
                 c_black_hole = {
-                    name = "Dragon Warhammer",
+                    name = "Twisted Bow",
                 },
                 name = "Spectral"
             },
