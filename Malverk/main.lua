@@ -1,6 +1,6 @@
 --- STEAMODDED HEADER
---- MOD_NAME: OSRS RESKIN
---- MOD_ID: OSRSRESKIN
+--- MOD_NAME: Runelatro
+--- MOD_ID: RUNELATRO
 --- PREFIX: iso
 --- MOD_AUTHOR: [Isotope]
 --- MOD_DESCRIPTION: RuneScapify the game.

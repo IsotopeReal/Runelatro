@@ -1,6 +1,6 @@
 --- STEAMODDED HEADER
---- MOD_NAME: OSRS RESKIN
---- MOD_ID: OSRSRESKIN
+--- MOD_NAME: Runelatro
+--- MOD_ID: RUNELATRO
 --- PREFIX: iso
 --- MOD_AUTHOR: [Isotope]
 --- MOD_DESCRIPTION: RuneScapify the game.
@@ -687,7 +687,8 @@ return {
             texpack_iso_osrs = {
                 name = "Runelatro",
                 text = {
-                    "RuneScapify your game experience.",
+                    "RuneScapify your game experience",
+                    "with this Texture Pack Mod.",
                     "Created by {C:dark_edition}Isotope"
                 }
             }

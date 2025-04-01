@@ -1,8 +1,8 @@
 --- STEAMODDED HEADER
---- MOD_NAME: OSRS RESKIN UI
---- MOD_ID: OSRSRESKINUI
+--- MOD_NAME: RunelatroUI
+--- MOD_ID: RunelatroUI
 --- MOD_AUTHOR: [Isotope]
---- MOD_DESCRIPTION: OSRS RESKIN UI DESC
+--- MOD_DESCRIPTION: Runescapify your game.
 --- VERSION: 1.0.0
 
 ----------------------------------------------
@@ -45,7 +45,7 @@ function SMODS.INIT.Colors()
         won = HEX("4f6367")
     }
 
-    local osrsreskin_mod = SMODS.findModByID("OSRSRESKINUI")
+    local osrsreskin_mod = SMODS.findModByID("RunelatroUI")
     local osrs_balatro = SMODS.Sprite:new("balatro", osrsreskin_mod.path, "osrsBalatro.png", 333, 216, "asset_atli")
     
     osrs_balatro:register()
