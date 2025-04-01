@@ -1,4 +1,4 @@
-# Runelatro - WIP
+# Runelatro
 
 ### Change up your game with this Oldschool RuneScape-inspired Texture Pack.
 
