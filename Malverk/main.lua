@@ -7,10 +7,6 @@
 --- VERSION: 1.0.0
 --- DEPENDENCIES: [malverk]
 
-Malverk.badges.badge_region = function(self, card, badges)
-    badges[#badges + 1] = create_badge(localize('r_region'), get_type_colour(self or card.config, card), nil, 1.2)
-end
-
 SMODS.Atlas{ -- Playing Cards
     key = "cards_1",
     path = "osrs_deck.png",
