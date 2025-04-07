@@ -18,6 +18,10 @@
 - Background colour change
 - Renamed cards
 
+
+### View the Full Showcase here
+### https://isotopereal.github.io/Runelatro/
+
 # How To Use
 > [!IMPORTANT]
 > Requires [Steamodded - Balatro Modding Framework](https://github.com/Steamodded/smods/wiki) and [Malverk Texture Pack Mod](https://github.com/Eremel/Malverk) as Dependency.  
