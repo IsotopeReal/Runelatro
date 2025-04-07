@@ -1,0 +1,182 @@
+/* import m6x11plus.ttf */
+
+@font-face {
+  font-family: 'm6x11plus';
+  src: url('m6x11plus.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'm6x11plus';
+  text-shadow: #000 2px 2px 2px;
+}
+
+main {
+  text-align: center;
+  color: #d1d127;
+  padding: 1rem;
+  width: min(105rem, 100%);
+  margin: 1rem auto;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+h3 {
+  letter-spacing: 1px;
+  font-size: 1.16em;
+}
+h4 {
+  color: #dadada;
+  letter-spacing: 1px;
+}
+p {
+  font-size: 16px;
+  padding: -20px;
+  color: #e0e0e0;
+}
+hr {
+  margin: 12px;
+}
+.cards {
+  display: flex;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  justify-content: center;
+  flex: 1;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.joker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border: 2px solid #ebebeb96;
+  border-radius: 1rem;
+  width: 16rem;
+  background-color: #3d3434c9;
+}
+.hover-container:hover .hover-image {
+  opacity: 1; /* Show the second image on hover */
+}
+.hover-container:hover .image {
+  opacity: 0; /* Hide the first image on hover */
+}
+.hover-text-container:hover .hover-text {
+  display: block; /* Show on hover */
+}
+.hover-text.visible {
+  display: block; /* Class to show text */
+}
+.hover-text  {
+  font-size: 20px;
+  display: none; /* Initially hidden */
+  position: absolute;
+  top: 100%; /* Position below the container */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #4d4238;
+  color: #fff;
+  padding: 15px;
+  border-radius: 15px;
+  white-space: nowrap;
+  border: 1px solid #dadada
+}
+.hover-text-container {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 18px;
+}
+.joker img {
+  height: 220px;
+  /* image-rendering: pixelated; */
+}
+img.hasback {
+  background-image: url("img/sticker_bg.png");
+  background-size: 142px 190px;
+}
+@keyframes blind-animate {
+  from {object-position: 0px 0px}
+  to {object-position: -2720px 0px}
+}
+.blinds .joker img {
+  width: 136px;
+  height: 136px;
+  object-fit: cover;
+  animation: blind-animate 2.1s linear infinite;
+  animation-timing-function: steps(20, start);
+}
+.hover-image {
+  position: absolute;
+  opacity: 0; /* Initially hide the second image */
+  transition: opacity 0.3s ease; /* Smooth transition for opacity */
+  display: block;
+  margin-top: -220px;
+}
+#download {
+  background-color: #374244;
+  color: white;
+  padding: 12px;
+  border: 2px solid white;
+  border-radius: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  margin-left: 16em;
+}
+
+.rarity {
+  width: 132px;
+  border-radius: 8px;
+  padding: 5px;
+  font-size: 20px;
+}
+.soulholder {
+  width: 142px;
+  height: 190px;
+  position: relative;
+}
+.soulholder img {
+  position: absolute;
+}
+@keyframes soul-rotate {
+  from {transform: rotateZ(-3deg)}
+  to {transform: rotateZ(3deg)}
+}
+.soul-top {
+  width: 142px;
+  object-fit: cover;
+  object-position: bottom;
+  top: 0;
+  left: 0;
+  filter: drop-shadow(0px 0px 5px #4f6367);
+  animation: soul-rotate 15s ease-in-out infinite alternate;
+  animation-delay: -7.5s
+}
+.soul-bg {
+  width: 142px;
+  object-fit: cover;
+  object-position: top;
+  top: 0;
+  left: 0;
+}
+.image {
+  display: block;
+}
+body {
+  background-image: url('img/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
