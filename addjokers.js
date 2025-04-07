@@ -2513,7 +2513,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_2.png",
-    vanilla_image_url: "img/vanilla/C_2.png",
+    vanilla_image_url: "img/vanilla/c_2.png",
     rarity: "Suit"
   },
   {
@@ -2523,7 +2523,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_3.png",
-    vanilla_image_url: "img/vanilla/C_3.png",
+    vanilla_image_url: "img/vanilla/c_3.png",
     rarity: "Suit"
   },
   {
@@ -2533,7 +2533,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_4.png",
-    vanilla_image_url: "img/vanilla/C_4.png",
+    vanilla_image_url: "img/vanilla/c_4.png",
     rarity: "Suit"
   },
   {
@@ -2543,7 +2543,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_5.png",
-    vanilla_image_url: "img/vanilla/C_5.png",
+    vanilla_image_url: "img/vanilla/c_5.png",
     rarity: "Suit"
   },
   {
@@ -2553,7 +2553,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_6.png",
-    vanilla_image_url: "img/vanilla/C_6.png",
+    vanilla_image_url: "img/vanilla/c_6.png",
     rarity: "Suit"
   },
   {
@@ -2563,7 +2563,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_7.png",
-    vanilla_image_url: "img/vanilla/C_7.png",
+    vanilla_image_url: "img/vanilla/c_7.png",
     rarity: "Suit"
   },
   {
@@ -2573,7 +2573,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_8.png",
-    vanilla_image_url: "img/vanilla/C_8.png",
+    vanilla_image_url: "img/vanilla/c_8.png",
     rarity: "Suit"
   },
   {
@@ -2583,7 +2583,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_9.png",
-    vanilla_image_url: "img/vanilla/C_9.png",
+    vanilla_image_url: "img/vanilla/c_9.png",
     rarity: "Suit"
   },
   {
@@ -2593,7 +2593,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_T.png",
-    vanilla_image_url: "img/vanilla/C_T.png",
+    vanilla_image_url: "img/vanilla/c_t.png",
     rarity: "Suit"
   },
   {
@@ -2603,7 +2603,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_J.png",
-    vanilla_image_url: "img/vanilla/C_J.png",
+    vanilla_image_url: "img/vanilla/c_j.png",
     rarity: "Suit"
   },
   {
@@ -2613,7 +2613,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_Q.png",
-    vanilla_image_url: "img/vanilla/C_Q.png",
+    vanilla_image_url: "img/vanilla/c_q.png",
     rarity: "Suit"
   },
   {
@@ -2623,7 +2623,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_K.png",
-    vanilla_image_url: "img/vanilla/C_K.png",
+    vanilla_image_url: "img/vanilla/c_k.png",
     rarity: "Suit"
   },
   {
@@ -2633,7 +2633,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/C_A.png",
-    vanilla_image_url: "img/vanilla/C_A.png",
+    vanilla_image_url: "img/vanilla/c_a.png",
     rarity: "Suit"
   },
   {
@@ -2643,7 +2643,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_2.png",
-    vanilla_image_url: "img/vanilla/D_2.png",
+    vanilla_image_url: "img/vanilla/d_2.png",
     rarity: "Suit"
   },
   {
@@ -2653,7 +2653,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_3.png",
-    vanilla_image_url: "img/vanilla/D_3.png",
+    vanilla_image_url: "img/vanilla/d_3.png",
     rarity: "Suit"
   },
   {
@@ -2663,7 +2663,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_4.png",
-    vanilla_image_url: "img/vanilla/D_4.png",
+    vanilla_image_url: "img/vanilla/d_4.png",
     rarity: "Suit"
   },
   {
@@ -2673,7 +2673,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_5.png",
-    vanilla_image_url: "img/vanilla/D_5.png",
+    vanilla_image_url: "img/vanilla/d_5.png",
     rarity: "Suit"
   },
   {
@@ -2683,7 +2683,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_6.png",
-    vanilla_image_url: "img/vanilla/D_6.png",
+    vanilla_image_url: "img/vanilla/d_6.png",
     rarity: "Suit"
   },
   {
@@ -2693,7 +2693,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_7.png",
-    vanilla_image_url: "img/vanilla/D_7.png",
+    vanilla_image_url: "img/vanilla/d_7.png",
     rarity: "Suit"
   },
   {
@@ -2703,7 +2703,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_8.png",
-    vanilla_image_url: "img/vanilla/D_8.png",
+    vanilla_image_url: "img/vanilla/d_8.png",
     rarity: "Suit"
   },
   {
@@ -2713,7 +2713,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_9.png",
-    vanilla_image_url: "img/vanilla/D_9.png",
+    vanilla_image_url: "img/vanilla/d_9.png",
     rarity: "Suit"
   },
   {
@@ -2723,7 +2723,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_T.png",
-    vanilla_image_url: "img/vanilla/D_T.png",
+    vanilla_image_url: "img/vanilla/d_t.png",
     rarity: "Suit"
   },
   {
@@ -2733,7 +2733,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_J.png",
-    vanilla_image_url: "img/vanilla/D_Jack.png",
+    vanilla_image_url: "img/vanilla/d_j.png",
     rarity: "Suit"
   },
   {
@@ -2743,7 +2743,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_Q.png",
-    vanilla_image_url: "img/vanilla/D_Q.png",
+    vanilla_image_url: "img/vanilla/d_q.png",
     rarity: "Suit"
   },
   {
@@ -2753,7 +2753,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_K.png",
-    vanilla_image_url: "img/vanilla/D_K.png",
+    vanilla_image_url: "img/vanilla/d_k.png",
     rarity: "Suit"
   },
   {
@@ -2763,7 +2763,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/D_A.png",
-    vanilla_image_url: "img/vanilla/D_A.png",
+    vanilla_image_url: "img/vanilla/d_a.png",
     rarity: "Suit"
   },
   {
@@ -2773,7 +2773,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_2.png",
-    vanilla_image_url: "img/vanilla/S_2.png",
+    vanilla_image_url: "img/vanilla/s_2.png",
     rarity: "Suit"
   },
   {
@@ -2783,7 +2783,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_3.png",
-    vanilla_image_url: "img/vanilla/S_3.png",
+    vanilla_image_url: "img/vanilla/s_3.png",
     rarity: "Suit"
   },
   {
@@ -2793,7 +2793,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_4.png",
-    vanilla_image_url: "img/vanilla/S_4.png",
+    vanilla_image_url: "img/vanilla/s_4.png",
     rarity: "Suit"
   },
   {
@@ -2813,7 +2813,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_6.png",
-    vanilla_image_url: "img/vanilla/S_6.png",
+    vanilla_image_url: "img/vanilla/s_6.png",
     rarity: "Suit"
   },
   {
@@ -2823,7 +2823,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_7.png",
-    vanilla_image_url: "img/vanilla/S_7.png",
+    vanilla_image_url: "img/vanilla/s_7.png",
     rarity: "Suit"
   },
   {
@@ -2833,7 +2833,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_8.png",
-    vanilla_image_url: "img/vanilla/S_8.png",
+    vanilla_image_url: "img/vanilla/s_8.png",
     rarity: "Suit"
   },
   {
@@ -2843,7 +2843,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_9.png",
-    vanilla_image_url: "img/vanilla/S_9.png",
+    vanilla_image_url: "img/vanilla/s_9.png",
     rarity: "Suit"
   },
   {
@@ -2853,7 +2853,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_T.png",
-    vanilla_image_url: "img/vanilla/S_T.png",
+    vanilla_image_url: "img/vanilla/s_t.png",
     rarity: "Suit"
   },
   {
@@ -2863,7 +2863,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_J.png",
-    vanilla_image_url: "img/vanilla/S_J.png",
+    vanilla_image_url: "img/vanilla/s_j.png",
     rarity: "Suit"
   },
   {
@@ -2873,7 +2873,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_Q.png",
-    vanilla_image_url: "img/vanilla/S_Q.png",
+    vanilla_image_url: "img/vanilla/s_q.png",
     rarity: "Suit"
   },
   {
@@ -2883,7 +2883,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_K.png",
-    vanilla_image_url: "img/vanilla/S_K.png",
+    vanilla_image_url: "img/vanilla/s_k.png",
     rarity: "Suit"
   },
   {
@@ -2893,7 +2893,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/S_A.png",
-    vanilla_image_url: "img/vanilla/S_A.png",
+    vanilla_image_url: "img/vanilla/s_a.png",
     rarity: "Suit"
   },
   {
@@ -2903,7 +2903,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_2.png",
-    vanilla_image_url: "img/vanilla/H_2.png",
+    vanilla_image_url: "img/vanilla/h_2.png",
     rarity: "Suit"
   },
   {
@@ -2913,7 +2913,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_3.png",
-    vanilla_image_url: "img/vanilla/H_3.png",
+    vanilla_image_url: "img/vanilla/h_3.png",
     rarity: "Suit"
   },
   {
@@ -2923,7 +2923,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_4.png",
-    vanilla_image_url: "img/vanilla/H_4.png",
+    vanilla_image_url: "img/vanilla/h_4.png",
     rarity: "Suit"
   },
   {
@@ -2933,7 +2933,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_5.png",
-    vanilla_image_url: "img/vanilla/H_5.png",
+    vanilla_image_url: "img/vanilla/h_5.png",
     rarity: "Suit"
   },
   {
@@ -2943,7 +2943,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_6.png",
-    vanilla_image_url: "img/vanilla/H_6.png",
+    vanilla_image_url: "img/vanilla/h_6.png",
     rarity: "Suit"
   },
   {
@@ -2953,7 +2953,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_7.png",
-    vanilla_image_url: "img/vanilla/H_7.png",
+    vanilla_image_url: "img/vanilla/h_7.png",
     rarity: "Suit"
   },
   {
@@ -2963,7 +2963,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_8.png",
-    vanilla_image_url: "img/vanilla/H_8.png",
+    vanilla_image_url: "img/vanilla/h_8.png",
     rarity: "Suit"
   },
   {
@@ -2973,7 +2973,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_9.png",
-    vanilla_image_url: "img/vanilla/H_9.png",
+    vanilla_image_url: "img/vanilla/h_9.png",
     rarity: "Suit"
   },
   {
@@ -2983,7 +2983,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_T.png",
-    vanilla_image_url: "img/vanilla/H_T.png",
+    vanilla_image_url: "img/vanilla/h_t.png",
     rarity: "Suit"
   },
   {
@@ -2993,7 +2993,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_J.png",
-    vanilla_image_url: "img/vanilla/H_J.png",
+    vanilla_image_url: "img/vanilla/h_j.png",
     rarity: "Suit"
   },
   {
@@ -3003,7 +3003,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_Q.png",
-    vanilla_image_url: "img/vanilla/H_Q.png",
+    vanilla_image_url: "img/vanilla/h_q.png",
     rarity: "Suit"
   },
   {
@@ -3013,7 +3013,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_K.png",
-    vanilla_image_url: "img/vanilla/H_K.png",
+    vanilla_image_url: "img/vanilla/h_k.png",
     rarity: "Suit"
   },
   {
@@ -3023,7 +3023,7 @@ let decks = [
       "",
     ],
     image_url: "img/suit/H_A.png",
-    vanilla_image_url: "img/vanilla/H_A.png",
+    vanilla_image_url: "img/vanilla/h_a.png",
     rarity: "Suit"
   },
 ]
