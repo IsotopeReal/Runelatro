@@ -57,10 +57,11 @@ hr {
   align-items: center;
   gap: 1rem;
   padding: 1rem;
-  border: 2px solid #ebebeb96;
+  border: 3px solid #ebebeb96;
   border-radius: 1rem;
   width: 16rem;
   background-color: #3d3434c9;
+  box-shadow: 0 4px #7b726f;
 }
 .hover-container:hover .hover-image {
   opacity: 1; /* Show the second image on hover */
